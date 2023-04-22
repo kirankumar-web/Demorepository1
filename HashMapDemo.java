@@ -83,11 +83,5 @@ public class HashMapDemo
 			System.out.println(arr[i]);
 		}
 	}
-	
-	hm1.wait();
-	hm1.wait(10);
-	
-
-			
  }
 }
